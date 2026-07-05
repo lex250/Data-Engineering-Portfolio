@@ -1,6 +1,5 @@
 # 🧠 Data Engineering ETL Pipeline — Multi-Source Data Integration
 
-> **Author:** Leslie Jerry 
 > **Date:** November 2025  
 
 ---
@@ -171,8 +170,4 @@ ETL-DataEngineering-Project/
 
 ---
 
-## 🧑‍💻 Author
-
-**Leslie Jerry Anubi**  
-Data Engineer | Digital Systems Analyst | Project Manager  
 
