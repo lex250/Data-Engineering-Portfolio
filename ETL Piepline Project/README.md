@@ -130,7 +130,7 @@ Make sure you have:
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/lex250/ETL-DataEngineering-Project.git
+git clone [https://github.com/lex250/ETL-DataEngineering-Project.git](https://github.com/lex250/Data-Engineering-Portfolio/blob/main/ETL%20Piepline%20Project/README.md)
 cd ETL-DataEngineering-Project
 pip install -r requirements.txt
 ```
